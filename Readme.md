@@ -6,20 +6,17 @@ Este repositorio incluye ciertas configuraciones base clave referentes al uso de
 registrar los comandos y demas en las carpetas : 
 
 
-
-```linux-commands
+linux commands
+``` linux-commands
 cat linux-commands/list-bins.txt
-
 ```
+alacritty-config
 
-
-```alacritty-config
+``` alacritty-config
 cat alacritty-cfg/alacritty.yml
-
 ```
-
-```zshrc
+zshrc
+``` zshrc
 cat zshrc/.zshrc
-
 ```
 
