@@ -1,0 +1,5 @@
+poetry - python3
+ubuntu-restricted-extras
+zshrc
+hardhat
+node25
